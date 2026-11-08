@@ -1,0 +1,146 @@
+@media (max-width: 575px){
+    html{
+        font-size: 13px;
+    }
+
+    .container{
+        padding: 0px 1.25rem;
+    }
+
+    .section-padding{
+        padding: 60px 0px;
+    }
+
+    .hero-section{
+        padding: 70px 0px 60px;
+    }
+
+    .hero-image{
+        height: 320px;
+    }
+
+    .hero-section h1{
+        font-size: 2.75rem;
+    }
+
+    .section-heading h2{
+        font-size: 2rem;
+    }
+
+    .hero-image-wrap{
+        margin-top: 3rem;
+    }
+
+    .hero-badge-code{
+        right: -18px;
+    }
+
+    .hero-badge-mobile{
+        left: -18px;
+    }
+
+    .testimonial-card{
+        padding: 1.5rem;
+    }
+
+    .contact-section .container{
+        padding: 0px 1rem;
+    }
+
+    .budget-options label{
+        width: 100%;
+    }
+
+    .footer-bottom{
+        flex-direction: column;
+    }
+
+    .footer-top{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}
+
+@media (min-width: 576px){
+    .section-padding{
+        padding: 70px 0px;
+    }
+
+    .hero-section{
+        padding: 100px 0px 80px;
+    }
+
+    .hero-image{
+        height: 380px;
+    }
+}
+
+@media (max-width: 1199px){
+    .navbar .navbar-nav{
+        gap: 0px;
+    }
+
+    .navbar .nav-buttons .btn{
+        width: 100%;
+    }
+
+    .services-menu{
+        position: static;
+        width: 100%;
+        max-width: 100%;
+        border: 0px;
+        box-shadow: none;
+        transform: none;
+    }
+
+}
+
+@media (min-width: 768px){
+    html{
+        font-size: 15px;
+    }
+
+    .hero-section{
+        padding: 120px 0px 90px;
+    }
+
+    .hero-image-wrap{
+        margin-top: 0px;
+    }
+
+    .budget-options label{
+        width: calc(33.333% - .75rem);
+    }
+}
+
+@media (min-width: 1024px){
+    html{
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 1200px){
+    .hero-section{
+        padding: 140px 0px 100px;
+    }
+
+    .hero-image{
+        height: 530px;
+    }
+
+    .navbar .nav-buttons .btn{
+        width: auto;
+        padding: .5rem 1rem;
+    }
+
+    .services-menu{
+        top: 100%;
+    }
+
+}
+
+@media (min-width: 1400px){
+    .hero-section h1{
+        font-size: 4rem;
+    }
+}

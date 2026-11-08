@@ -1,0 +1,8 @@
+<i class="fa-solid fa-play"></i>
+<i class="fa-solid fa-gears"></i>
+<i class="fa-solid fa-heart"></i>
+<i class="fa-solid fa-star" style="color: rgb(255, 212, 59);"></i>
+<i class="fa-brands fa-square-linkedin"></i>
+<i class="fa-solid fa-circle-question"></i>
+<i class="fa-solid fa-rocket"></i>
+<i class="fa-solid fa-shield-halved"></i>
